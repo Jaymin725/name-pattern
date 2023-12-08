@@ -77,4 +77,4 @@ while(i < 5) {
   i++;
 }
 
-document.write(str);
+document.body.innerHTML = str;
